@@ -1,0 +1,1 @@
+ insertionSort(a,0,6);
